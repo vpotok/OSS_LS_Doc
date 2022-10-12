@@ -23,11 +23,13 @@
 
 <br>
 Fehlermedlungen bei einem _find ._ in ein weiters File speichern
+<br>
 ``find . 2> fehler_erg.txt``
 or 
 ``find . 2>1 erg.txt``
-
+<br>
 
 tee Command
+<br>
 Output wird ausgeführt und in ein File gespeichert
 ``command | tee file.txt``
