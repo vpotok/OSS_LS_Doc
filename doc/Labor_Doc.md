@@ -1,0 +1,11 @@
+# Labor Dokumentation vom 12.11.2021
+## VM erstellen:
+
+* Vollständige VMs sind bereits im Labor Storages (/netexport) vorhanden und können als VM-Link erstellt werden 
+ -> VM-Links sind eine Art Blauprint Kopie der Ursprungs-VM, alle neuen veränderungen werden serpart auf meinem Rechner gesichert
+* 
+
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
