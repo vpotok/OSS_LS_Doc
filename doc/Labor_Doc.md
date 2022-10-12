@@ -12,7 +12,7 @@
 
 
 ### Mini WH Linux-Befehle.
-# Anzahl an Enter (\n) mit cat in einer Datei
+#### Anzahl an Enter (\n) mit cat in einer Datei
 <br>
 ``` zB cat text.txt | wc -l ```
 <br>
