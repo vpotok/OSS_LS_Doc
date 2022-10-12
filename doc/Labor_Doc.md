@@ -25,7 +25,9 @@
 Fehlermedlungen bei einem _find ._ in ein weiters File speichern
 <br>
 ``find . 2> fehler_erg.txt``
+<br>
 or 
+<br>
 ``find . 2>1 erg.txt``
 <br>
 
