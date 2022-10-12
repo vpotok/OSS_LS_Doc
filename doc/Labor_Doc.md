@@ -14,7 +14,7 @@
 ### Mini WH Linux-Befehle.
 #### Anzahl an Enter (\n) mit cat in einer Datei
 <br>
-```zB cat text.txt | wc -l```
+``zB cat text.txt | wc -l``
 <br>
 ```wc -> Wortcount ; -l -> new Lines also ENTER```
 <br>
