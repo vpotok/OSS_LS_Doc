@@ -12,7 +12,7 @@
 
 
 ### Mini WH Linux-Befehle.
-``# Anzahl an Enter (\n) mit cat in einer Datei``
+# Anzahl an Enter (\n) mit cat in einer Datei
 <br>
 `` zB cat text.txt | wc -l ``
 <br>
@@ -20,3 +20,14 @@
 <br>
 
 `` Verschiebungen mit "<" und ">"``
+
+<br>
+Fehlermedlungen bei einem _find ._ in ein weiters File speichern
+``find . 2> fehler_erg.txt``
+or 
+``find . 2>1 erg.txt``
+
+
+tee Command
+Output wird ausgeführt und in ein File gespeichert
+``command | tee file.txt``
