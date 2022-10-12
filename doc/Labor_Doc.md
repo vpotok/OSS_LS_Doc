@@ -2,8 +2,8 @@
 ## VM erstellen:
 
 * Vollständige VMs sind bereits im Labor Storages (/netexport) vorhanden und können als VM-Link erstellt werden 
- <br> -> VM-Links sind eine Art Blauprint Kopie der Ursprungs-VM, alle neuen veränderungen werden serpart auf meinem Rechner gesichert
-* 
+ <br>-> VM-Links sind eine Art Blauprint Kopie der Ursprungs-VM, alle neuen veränderungen werden serpart auf meinem Rechner gesichert
+* Tutorial findet sich unter **start.nwt.fhstp.ac.at/wiki/doku.php/index**
 
 <li> </li>
 <li> </li>
