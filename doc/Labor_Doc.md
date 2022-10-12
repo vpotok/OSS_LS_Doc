@@ -12,4 +12,8 @@
 
 
 ### Mini WH Linux-Befehle.
-```moin```
+```# Anzahl an Enter (\n) mit cat in einer Datei```
+``` zB cat text.txt | wc -l ```
+```wc -> Wortcount ; -l -> new Lines also ENTER```
+
+``` Verschiebungen mit "<" und ">"```
