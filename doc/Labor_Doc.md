@@ -16,10 +16,9 @@
 <br>
 ``` zB cat text.txt | wc -l ```
 <br>
-```wc -> Wortcount ; -l -> new Lines also ENTER```
+``` wc -> Wortcount ; -l -> new Lines also ENTER ```
 <br>
-
-``` Verschiebungen mit "<" und ">"```
+``` Verschiebungen mit "<" und ">" ```
 
 <br>
 Fehlermedlungen bei einem _find ._ in ein weiters File speichern
